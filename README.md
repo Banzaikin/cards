@@ -1,3 +1,4 @@
+Задание по моделированию систем (3 курс, Мухин). Вытягивание карты, подсчитывание вероятностей
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
